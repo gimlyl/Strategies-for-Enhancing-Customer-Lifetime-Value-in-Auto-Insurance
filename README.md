@@ -17,7 +17,7 @@ To enhance our understanding, we'll analyze the data to identify key patterns. T
 
 ### **Metrics Evaluation**
 
-    To evaluate the effectiveness of the regression model, we'll utilize three primary metrics: RMSE (Root Mean Square Error), MAE (Mean Absolute Error), and MAPE (Mean Absolute Percentage Error). RMSE provides the square root of the average squared errors, offering insight into the model's accuracy. MAE gives the average of the absolute errors, reflecting the magnitude of errors without direction, while MAPE offers a percentage-based representation of the prediction error. The lower the values for RMSE, MAE, and MAPE, the more accurate our model is in predicting Customer Lifetime Value, given the constraints of the features utilized.
+To evaluate the effectiveness of the regression model, we'll utilize three primary metrics: RMSE (Root Mean Square Error), MAE (Mean Absolute Error), and MAPE (Mean Absolute Percentage Error). RMSE provides the square root of the average squared errors, offering insight into the model's accuracy. MAE gives the average of the absolute errors, reflecting the magnitude of errors without direction, while MAPE offers a percentage-based representation of the prediction error. The lower the values for RMSE, MAE, and MAPE, the more accurate our model is in predicting Customer Lifetime Value, given the constraints of the features utilized.
 
 
 ## **Data Understanding**
